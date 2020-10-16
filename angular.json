@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "marketing"
+    }
+  },
+  "defaultProject": "marketing",
+  "cli": {
+    "analytics": "14dd60f9-1306-4b8e-aa96-8b0d9b0e5d1e"
+  }
 }
